@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "functions-and-dictionaries",
+      "title": "Functions and Dictionaries in Python",
+      "description": "Build a simple contact book using functions and dictionaries.",
+      "path": "assignments/functions-and-dictionaries",
+      "dueDate": "2026-07-01",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
